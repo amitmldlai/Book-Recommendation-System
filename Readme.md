@@ -19,5 +19,7 @@ This system is build using different techniques:
 5. Collaborative Filtering
    * Memory Based System
    * Model Based System
+   
+![img.png](EDA/img.png)
 
 Refer Blog: https://medium.com/@amitdlmlai/book-recommendation-system-61bf9284f659
